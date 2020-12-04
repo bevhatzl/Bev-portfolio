@@ -27,9 +27,9 @@ This is my own personal portfolio made in HTML, CSS and JavaScript.
 
 #### Initial interface
 
-![Screenshot of "welcome" view](/)
-![Screenshot of "portfolio" view](/)
-![Screenshot of "about me" view](/)
+![Screenshot of "welcome" view](/assets/welcome.png)
+![Screenshot of "portfolio" view](/assets/portfolio.png)
+![Screenshot of "about me" view](/assets/about.png)
 
 ## Author
 Beverley Hatzl 2020

@@ -10174,6 +10174,10 @@ h3 {
   font-size: 1.5rem;
 }
 
+.portfolio-item-caption-content {
+  padding: 10px;
+}
+
 .portfolio-modal .portfolio-modal-title {
   font-size: 2.25rem;
   line-height: 2rem;
@@ -10252,7 +10256,15 @@ form .row:first-child .floating-label-form-group {
   background-color: #1a252f;
 }
 
-#resume-link {
+#resume-link, .project-link {
   color: white;
   text-decoration: underline;
+}
+
+#port-item-5, #port-item-6 {
+  font-size: 20px;
+}
+
+#port-item-4 {
+  font-size: 18px;
 }
