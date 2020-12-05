@@ -10263,7 +10263,7 @@ form .row:first-child .floating-label-form-group {
   font-size: 1.2rem;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1024px) {
   .portfolio .portfolio-item .portfolio-item-caption .font-small {
     font-size: 1rem;
   }
