@@ -10260,11 +10260,5 @@ form .row:first-child .floating-label-form-group {
 }
 
 .portfolio .portfolio-item .portfolio-item-caption .font-small {
-  font-size: 1.2rem;
-}
-
-@media (max-width: 1024px) {
-  .portfolio .portfolio-item .portfolio-item-caption .font-small {
-    font-size: 1rem;
-  }
+  font-size: 0.9rem;
 }
