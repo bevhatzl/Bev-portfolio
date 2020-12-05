@@ -4058,6 +4058,7 @@ input[type=button].btn-block {
     padding-left: 0;
   }
 }
+
 @media (min-width: 576px) {
   .navbar-expand-sm {
     flex-flow: row nowrap;
@@ -10171,10 +10172,7 @@ h3 {
   opacity: 1;
 }
 .portfolio .portfolio-item .portfolio-item-caption .portfolio-item-caption-content {
-  font-size: 1.5rem;
-}
-
-.portfolio-item-caption-content {
+  font-size: 1.2rem;
   padding: 10px;
 }
 
@@ -10261,10 +10259,12 @@ form .row:first-child .floating-label-form-group {
   text-decoration: underline;
 }
 
-#port-item-5, #port-item-6 {
-  font-size: 20px;
+.portfolio .portfolio-item .portfolio-item-caption .font-small {
+  font-size: 1.2rem;
 }
 
-#port-item-4 {
-  font-size: 18px;
+@media (max-width: 768px) {
+  .portfolio .portfolio-item .portfolio-item-caption .font-small {
+    font-size: 1rem;
+  }
 }
